@@ -10,10 +10,12 @@ sections:
     section_id: hero
     type: heroblock
   - actions:
-      - label: Visit My GitHub
+      - label: GitHub
         url: 'http://github.com/cbirchallroman'
-      - label: View My Resume
+      - label: LinkedIn
         url: 'https://www.linkedin.com/in/cbirchallroman/'
+      - label: Resume
+        url: 'https://google.com'
     component: content_block.html
     content: >-
       My journey in software development began in late 2014, when I taught

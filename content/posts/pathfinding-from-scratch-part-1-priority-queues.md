@@ -1,6 +1,6 @@
 ---
 title: 'Pathfinding From Scratch, Part 1: Priority Queues'
-subtitle: 'Part 1: Priority Queues'
+subtitle: Implementing priority queues using an array list and/or binary heap
 date: 2019-12-19T20:43:41.694Z
 thumb_img_path: /images/pathfinding1.jpg
 excerpt: >-

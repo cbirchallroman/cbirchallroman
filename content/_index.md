@@ -10,9 +10,9 @@ sections:
     section_id: hero
     type: heroblock
   - actions:
-      - label: Contact Me
-        url: /contact
-      - label: View Resume
+      - label: Visit My GitHub
+        url: 'http://github.com/cbirchallroman'
+      - label: View My Resume
         url: 'https://www.linkedin.com/in/cbirchallroman/'
     component: content_block.html
     content: >-

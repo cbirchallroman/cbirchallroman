@@ -1,12 +1,6 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/cbirchallroman"
-    },
-    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
@@ -17,6 +11,12 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "www.linkedin.com/in/cbirchallroman"
+    },
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/cbirchallroman"
     }
   ]
 }

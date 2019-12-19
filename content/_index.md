@@ -13,6 +13,7 @@ sections:
       - label: Contact Me
         url: /contact
       - label: View Resume
+        url: 'https://www.linkedin.com/in/cbirchallroman/'
     component: content_block.html
     content: >-
       My journey in software development began in late 2014, when I taught

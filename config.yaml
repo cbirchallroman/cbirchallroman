@@ -12,7 +12,7 @@ params:
     has_nav: true
     has_social: true
     profile_img: images/avatar.png
-    tagline: B.S. Computer Science <br/> B.A. Classical Culture
+    tagline: B.S. Computer Science / B.A. Classical Culture
     title: Calvin Birchall-Roman
   layout_style: overflow
   palette: blue

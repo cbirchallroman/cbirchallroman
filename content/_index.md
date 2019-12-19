@@ -10,11 +10,11 @@ sections:
     section_id: hero
     type: heroblock
   - actions:
-      - label: GitHub
+      - label: My GitHub
         url: 'http://github.com/cbirchallroman'
-      - label: LinkedIn
+      - label: My LinkedIn
         url: 'https://www.linkedin.com/in/cbirchallroman/'
-      - label: Resume
+      - label: My Resume
         url: 'https://google.com'
     component: content_block.html
     content: >-

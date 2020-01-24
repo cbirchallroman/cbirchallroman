@@ -1,5 +1,8 @@
 ---
 title: 'Pathfinding From Scratch, Part 2: Nodes'
+subtitle: >-
+  I designed an abstract class Node for users to implement fields and functions
+  specific to their implementation of A*.
 date: 2020-01-24T16:07:18.913Z
 thumb_img_path: /images/pathfinding2.jpg
 layout: post

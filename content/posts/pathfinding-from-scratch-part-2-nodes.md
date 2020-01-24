@@ -46,7 +46,7 @@ There are also fields that should be protected, because they may be important fo
 	// even though we want these fields to be accessible to implementations of Node
 	// 	we don't need/want them to be changed outside of the abstract class itself
 
-I have functions called SetParent() and SetWeightConditions() which allow the user to set the parent and goal nodes of any given node. I have dedicated functions because these functions also set the total distance traveled and the heuristic. The user shouldn't be allowed to change the parent or goal nodes without also affecting these dependent fields as well.
+I have functions called SetParent(N) and SetWeightConditions(N) which allow the user to set the parent and goal nodes of any given node. I have dedicated functions to preserve abstraction while ensuring certain behavior. For example, SetParent(N parent) calls SetWeightConditions(N) if parent isn't null. The user shouldn't be allowed to change the parent or goal nodes without also affecting these dependent fields as well.
 
 With these private and protected fields, we can leave the following up to the user's implementation:
 

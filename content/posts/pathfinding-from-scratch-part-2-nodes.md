@@ -8,10 +8,6 @@ With the priority queue structure out of the way, I could implement the A\* algo
 
 A\* is a pathfinding algorithm which combines the efforts of two other algorithms, Dijkstra's algorithm and the greedy best-first search algorithm. Dijkstra's algorithm measures the shortest possible distance traveled from one node to any connected node on the map. The greedy best-first search algorithm approximates the shortest distance from any node to the end node. Dijkstra guarantees the shortest path while the greedy best-first algorithm guarantees a fast solution. By taking both calculations (shortest distance traveled + approximate remaining distance), A* represents a happy medium between effectiveness and efficiency.
 
-Let's look at some pseudocode for the A* algorithm:
-
-	
-
 My goal was to abstract the algorithm and its implementation. Ideally, you should be able to use the bare bones of the algorithm in any situation so long as you define parts specific to your implementation. For example, the algorithm does not need to know how to calculate the approximate distance from one node to the end node: the nodes can handle this problem among themselves. The first step is to separate out information specific to the algorithm and information that can be hidden from the algorithm. The algorithm should be the final implementation of itself. The information specific to the user implementation should be relegated to some Node abstract class. Thus the algorithm class should only work with nodes of the same type, and nodes should only cooperate with nodes of the same type. So we have two class headers to start off with:
 
 	public sealed class Pathfinder<N> where N : Node<N> { ... }

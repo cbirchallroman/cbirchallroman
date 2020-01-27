@@ -3,7 +3,7 @@ title: Post Index
 menu:
   main:
     name: Post Index
-    weight: 3
+    weight: 4
 layout: page
 ---
 Here you can find my posts listed by topic, in alphabetical order.

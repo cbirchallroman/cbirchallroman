@@ -15,7 +15,8 @@ sections:
       - label: My LinkedIn
         url: 'https://www.linkedin.com/in/cbirchallroman/'
       - label: My Resume
-        url: 'https://google.com'
+        url: >-
+          https://drive.google.com/file/d/1J5jMQ-dxkurk2N6z0oRjHHGc_iQzZNm1/view?usp=sharing
     component: content_block.html
     content: >-
       My journey in software development began in late 2014, when I taught

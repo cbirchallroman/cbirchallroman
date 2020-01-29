@@ -1,4 +1,4 @@
-title: Stackbit Fresh Theme
+title: Calvin Birchall-Roman
 baseURL: /
 params:
   footer:
@@ -8,14 +8,14 @@ params:
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
   header:
-    bg: dark
+    bg: light
     has_nav: true
     has_social: true
     profile_img: images/avatar.png
     tagline: Computer Science / Classical Culture
     title: Calvin Birchall-Roman
-  layout_style: overflow
-  palette: blue
+  layout_style: default
+  palette: violet
 disableKinds:
   - RSS
   - taxonomy

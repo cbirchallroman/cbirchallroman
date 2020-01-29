@@ -5,13 +5,13 @@ params:
     content: '&copy; All rights reserved.'
     links: []
   header:
-    bg: light
+    bg: dark
     has_nav: true
     has_social: true
     profile_img: images/avatar.png
     tagline: Computer Science / Classical Culture
     title: Calvin Birchall-Roman
-  layout_style: default
+  layout_style: overflow
   palette: violet
 disableKinds:
   - RSS

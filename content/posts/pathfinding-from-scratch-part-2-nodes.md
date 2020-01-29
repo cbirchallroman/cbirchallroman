@@ -1,10 +1,11 @@
 ---
 title: 'Pathfinding From Scratch, Part 2: Nodes'
-subtitle: >-
-  I designed an abstract class Node for users to implement fields and functions
-  specific to their implementation of A*.
+subtitle: ''
 date: 2020-01-24T16:07:18.913Z
 thumb_img_path: /images/pathfinding2.jpg
+excerpt: >-
+  I designed an abstract class Node for users to implement fields and functions
+  specific to their implementation of A*.
 layout: post
 ---
 With the priority queue structure out of the way, I could implement the A\* algorithm from scratch. There are better articles whose efforts I will not plagiarize that discuss the A\* algorithm at length. I recommend [Red Blob Game's article](https://www.redblobgames.com/pathfinding/a-star/introduction.html) and [Wikipedia's entry](https://en.wikipedia.org/wiki/A*_search_algorithm) for their clear pseudocode and in-depth explanation.

@@ -23,10 +23,11 @@ sections:
       myself Java to join my high school's UIL Computer Science team. As an
       upperclassman, I taught new members useful OO programming practices and
       led my team in group competitions. In 2016, I self-taught C# and used the
-      Unity 3D game engine to practice architecture and systematic design.
+      Unity 3D game engine to practice systematic architecture and design.
       Having enrolled at Texas Tech in 2018, I've since become familiar with C
-      and C++. My personal projects since 2016 have been exercises in
-      architectural design.
+      and C++. My current projects are exercises in systematic architecture,
+      using object-oriented paradigms to design and control relations between
+      objects.
     section_id: about
     title: About
     type: contentblock

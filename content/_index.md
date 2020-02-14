@@ -6,7 +6,7 @@ sections:
     content: >-
       I'm an honors student at Texas Tech University pursuing dual degrees in
       computer science (B.S.) and classical culture (B.A.). I'm interested in
-      systems design and backend development.
+      software architecture and backend development.
     section_id: hero
     type: heroblock
   - actions:
@@ -26,7 +26,7 @@ sections:
       Having enrolled at Texas Tech in 2018, I've since become familiar with C
       and C++. My current projects are exercises in systematic architecture,
       using object-oriented paradigms to design and control relations between
-      objects.
+      objects. Check out my GitHub to see my published projects!
     section_id: about
     title: About
     type: contentblock

@@ -3,12 +3,15 @@ baseURL: /
 params:
   footer:
     content: '&copy; All rights reserved.'
-    links: []
+    links:
+      - new_window: true
+        text: Github
+        url: 'http://github.com/cbirchallroman'
   header:
     bg: dark
     has_nav: true
     has_social: true
-    profile_img: images/avatar.png
+    profile_img: /images/IMG_3794.JPG
     tagline: Computer Science / Classical Culture
     title: Calvin Birchall-Roman
   layout_style: overflow

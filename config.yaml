@@ -15,7 +15,7 @@ params:
     tagline: Computer Science / Classical Culture
     title: Calvin Birchall-Roman
   layout_style: overflow
-  palette: green
+  palette: violet
 disableKinds:
   - RSS
   - taxonomy

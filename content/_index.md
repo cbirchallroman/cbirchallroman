@@ -8,7 +8,7 @@ sections:
       computer science (B.S.) and classical culture (B.A.). I'm interested in
       software architecture and backend development.
     section_id: hero
-    title: Test!
+    title: 'Hi, my name''s Calvin!'
     type: heroblock
   - actions:
       - label: My GitHub

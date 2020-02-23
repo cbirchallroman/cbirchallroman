@@ -14,7 +14,7 @@ params:
     profile_img: /images/IMG_4419.JPG
     tagline: Computer Science / Classical Culture
     title: Calvin Birchall-Roman
-  layout_style: overflow
+  layout_style: default
   palette: violet
 disableKinds:
   - RSS

@@ -3,23 +3,21 @@ title: Home
 sections:
   - actions: []
     component: hero_block.html
-    content: >-
-      I'm an honors student at Texas Tech University pursuing dual degrees in
+    content: I'm an honors student at Texas Tech University pursuing dual degrees in
       computer science (B.S.) and classical culture (B.A.). I'm interested in
       software architecture and backend development.
     section_id: hero
-    title: 'Hi, my name''s Calvin!'
+    title: Hi, my name's Calvin!
     type: heroblock
   - actions:
       - label: My GitHub
-        url: 'http://github.com/cbirchallroman'
+        url: http://github.com/cbirchallroman
       - label: My LinkedIn
-        url: 'https://www.linkedin.com/in/cbirchallroman/'
+        url: https://www.linkedin.com/in/cbirchallroman/
       - label: My Resume
-        url: 'https://drive.google.com/open?id=1hqxYXLixFulSZIsakyF3WwFLQUnhCY_2'
+        url: https://drive.google.com/file/d/17m79S5UX7ElZS3cR1O1InAmlEUDUJ5Ao/
     component: content_block.html
-    content: >-
-      My journey in software development began in late 2014, when I taught
+    content: My journey in software development began in late 2014, when I taught
       myself Java to join my high school's UIL Computer Science team. As an
       upperclassman, I taught new members useful OO programming practices and
       led my team in group competitions. In 2016, I self-taught C# and used the
@@ -45,4 +43,3 @@ menu:
     weight: 1
 layout: home
 ---
-
